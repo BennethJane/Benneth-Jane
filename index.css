@@ -3,56 +3,57 @@
     padding: 0;
 }
 h1 {
-    width: 10vh;
-    height: max-content;
+    width: 100vh;
+    height: 100%t;
     background-color: blue;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 h2 {
-    width: 10vh;
-    height: max-content;
+    width: 100vh;
+    height: 100%t;
     background-color: rgb(15, 172, 219);
     display: flex;
     justify-content: center;
     align-items: center;
 }
 h3 {
-    width: 10vh;
-    height: max-content;
+    
+    width: 100vh;
+    height: 100%t;
     background-color: rgb(72, 72, 102);
     display: flex;
     justify-content: center;
     align-items: center;
 }
 h4 {
-    width: 10vh;
-    height: max-content;
+    width: 100vh;
+    height: 100%t;
     background-color: rgb(104, 104, 160);
     display: flex;
     justify-content: center;
     align-items: center;
 }
 h5 {
-    width: 10vh;
-    height: max-content;
+    width: 100vh;
+    height: 100%t;
     background-color: rgb(177, 177, 233);
     display: flex;
     justify-content: center;
     align-items: center;
 }
 h6 {
-    width: 10vh;
-    height: max-content;
+    width: 100vh;
+    height: 100%t;
     background-color: rgb(25, 25, 236);
     display: flex;
     justify-content: center;
     align-items: center;
 }
 p {
-    width: 10vh;
-    height: max-content;
+    width: 100vh;
+    height: 100%t;
     background-color: rgb(238, 241, 18);
     display: flex;
     justify-content: center;
